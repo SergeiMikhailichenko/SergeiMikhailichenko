@@ -13,11 +13,6 @@ I'm a frontend developer with a passion for artificial intelligence. I strive to
 ![JavaScript](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=github)
 ![JavaScript](https://img.shields.io/badge/-json-black?style=for-the-badge&logo=json)
 
-## My Projects:
-[link1]()
-
-[link2]()
-
-[link3]()
-## Follow Me
+## Social networks:
 [![JavaScript](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0C68C3)](https://www.linkedin.com/in/s-mikhailichenko)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&)](https://t.me/SergeiMikhailichenko)
