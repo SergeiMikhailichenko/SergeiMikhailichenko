@@ -13,5 +13,10 @@
 ![JavaScript](https://img.shields.io/badge/-json-black?style=for-the-badge&logo=json)
 
 ## My Projects:
+[link1]()
 
+[link2]()
+
+[link3]()
 ## Follow Me
+[![JavaScript](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0C68C3)](https://www.linkedin.com/in/s-mikhailichenko)
