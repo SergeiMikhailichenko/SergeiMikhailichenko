@@ -8,7 +8,7 @@ LinkedIn: [linkedin.com/in/s-mikhailichenko](https://www.linkedin.com/in/s-mikha
 
 ## About
 
-Frontend Developer with around 3 years of commercial experience, specializing in Vue.js (Vue 3, Pinia) with hands-on knowledge of React. I develop and maintain responsive web interfaces, build new features from Figma designs, integrate REST APIs, fix production issues, and improve frontend performance. My main technologies are Vue 3, React, JavaScript, TypeScript, Pinia, Vue Router, HTML5, CSS3, SCSS, Vite, Axios and REST API. I also have experience with multilingual interfaces, RTL layouts, mobile web, Android WebView and performance optimization. Before moving into software development, I worked as an engineer for several years, which helped me develop a structured approach to problem solving and working with complex tasks.
+Frontend Developer with around 3 years of commercial experience, specializing in Vue.js (Vue 3, Pinia, Vue Router) with hands-on expertise in React (Hooks, Context API, React Router) and AI-assisted development workflows. I develop and maintain responsive web interfaces, build new features from Figma designs, integrate REST APIs, fix production issues, and optimize frontend performance. My main stack includes Vue 3, React, JavaScript (ES6+), TypeScript, Pinia, SCSS, Tailwind CSS, Vite, Axios, and REST API. Experienced in multilingual (i18n) interfaces, RTL layouts, mobile web adaptation, Android WebView, and Web Vitals optimization.
 
 ## Technical Stack
 
@@ -16,7 +16,7 @@ Frontend Developer with around 3 years of commercial experience, specializing in
 
 **Web & Styling:** HTML5, CSS3, SCSS/SASS, Tailwind CSS, Responsive Design, Flexbox, CSS Grid
 
-**Tools & Infrastructure:** Vite, Axios, REST API, Git, i18n, Core Web Vitals, Lazy Loading, Agile/Scrum
+**Tools & Practices:** Vite, Axios, REST API, Git, i18n, Core Web Vitals, Lazy Loading, AI-Assisted Workflows, Agile/Scrum
 
 ## Professional Experience
 
@@ -75,6 +75,8 @@ Frontend Developer with around 3 years of commercial experience, specializing in
 * Prepared and maintained technical documentation.
 
 ## Certifications & Courses
+
+* **Google AI Professional Certificate** - *Google (Covers AI Fundamentals, App Building & Deployment, Research, Analysis & Workflow Automation)*
 
 * **Meta Front-End Developer Professional Certificate** - *Meta (Includes Advanced React, React Basics, JS, HTML/CSS, Version Control)*
 
